@@ -6,6 +6,8 @@ The model is evaluated on multiple datasets from the **BEIR (Benchmarking Inform
 
 > **Model:** https://huggingface.co/Innovatewithapple/bert-dense-retriever
 
+> **Repo:** https://github.com/Innovatewithapple/dense-semantic-retrieval
+
 ---
 
 # 📖 About BEIR
